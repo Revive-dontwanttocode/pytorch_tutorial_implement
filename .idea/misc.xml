@@ -4,4 +4,7 @@
     <option name="sdkName" value="pytorch4gpu" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="pytorch4gpu" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
